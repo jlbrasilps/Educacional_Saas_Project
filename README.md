@@ -1,5 +1,9 @@
 
 
+
+https://github.com/user-attachments/assets/34a9f934-2fd3-4982-b095-29b93379ebb5
+
+
 # 🧠 Converso – AI-Powered SaaS Learning Platform
 
 **Converso** is a modern, AI-driven SaaS platform for real-time, voice-activated learning experiences.  
@@ -101,4 +105,5 @@ Mobile-first, accessible design
 
 Thank you for visiting! If you like this project, please star the repo and follow me on GitHub.
 Happy coding! 🚀
+
 
