@@ -1,4 +1,4 @@
-![Project Banner](public/readme/hero.png)
+
 
 # 🧠 Converso – AI-Powered SaaS Learning Platform
 
@@ -101,3 +101,4 @@ Mobile-first, accessible design
 
 Thank you for visiting! If you like this project, please star the repo and follow me on GitHub.
 Happy coding! 🚀
+
